@@ -89,3 +89,10 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: give_name
+  examples: |
+    - My name is [Elmo] (name)
+    - I am [Elmo] (name)
+    - The name given to me is [Elmo] (name)
+    - Thy name is [Elmo](name)
